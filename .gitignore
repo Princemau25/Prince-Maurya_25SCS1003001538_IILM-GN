@@ -1,0 +1,20 @@
+# Generated model and database files — created at runtime by generate_data.py / main.py
+xgboost_model.pkl
+modern_patients.db
+modern_patients.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
